@@ -1,0 +1,78 @@
+.top_header{
+	overflow: hidden;
+}
+.logo{
+	width: 34%;
+	height: 100px;
+	background-color: #DE5D83;
+	float: left;
+	text-align: center;
+}
+.banner{
+	width: 65%;
+	height: 100px;
+	background-color: #00FFFF;
+	float: right;
+	text-align: center;
+}
+.header_bar{
+	height: 100px;
+	background-color: #FFD700;
+	margin-top: 30px;
+	text-align: center;
+}
+.content{
+	margin-top: 20px;
+}
+.left{
+	width: 20%;
+	height: 400px;
+	background-color: #B57EDC;
+	float: left;
+	text-align: center;
+}
+.middle{
+	width: 52%;
+	height: 400px;
+	background-color: white;
+	float: left;
+	margin-left: 5%;
+	text-align: center;
+}
+.top{
+	height: 100px;
+	background-color: #FFFF00;
+	text-align: center;
+}
+.center{
+	height: 200px;
+	background-color: #C71585;
+	text-align: center;
+}
+.left_center{
+	width: 50%;
+	height: 200px;
+	background-color: #92000A	;
+	float: left;
+}
+.right_center{
+	width: 50%;
+	height: 200px;
+	background-color: #00FF7F;
+	float: right;
+}
+.bottom{
+	height: 100px;
+	background-color: #D2B48C;
+	text-align: center;
+}
+.right{
+	width: 20%;
+	height: 400px;
+	background-color: #003153;
+	float: right;
+	text-align: center;
+}
+h1{
+	margin: 00;
+}
